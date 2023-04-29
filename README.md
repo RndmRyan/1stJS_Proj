@@ -1,4 +1,4 @@
-# 1stJS_Proj
+# 1st JS Project
 My 1st time working with Javascript and making the most basic web calculator.
 
 The best thing I liked was that I didnt even need to solve the problem or anything, he eval function did that completely.

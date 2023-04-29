@@ -1,0 +1,43 @@
+.calculator {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	height: 97.4vh;
+	background-color: darkolivegreen;
+	border-radius: 20px;
+}
+
+#screen {
+	border: 1px solid black;
+	height: 50px;
+	width: 100%;
+	font-size: 24px;
+	line-height: 50px;
+	padding-bottom: 10px;
+	text-align: left;
+	background-color: bisque;
+}
+
+table {
+	border: 2px solid aqua;
+	padding: 10px;
+	background-color: #333333;
+	border-radius: 10px;
+}
+
+td {
+	padding: 5px;
+	text-align: center;
+}
+
+button {
+	height: 50px;
+	width: 100%;
+	font-size: 24px;
+	background-color: #f0f0f0;
+	border: 1px solid black;
+	border-radius: 5px;
+	cursor: pointer;
+	padding-left: 20px;
+	padding-right: 20px;
+}
